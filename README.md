@@ -1,2 +1,2 @@
-# Rocky-Sexton.gitbuh.io
+# Rocky-Sexton.github.io
 Website basics - sandbox
